@@ -1,0 +1,12 @@
+/* .SVG:hover{
+    filter: drop-shadow(0 0 6px rgba(0, 0, 0, 0.3));
+} */
+/* Set the initial color of the icon (blue) */
+a i.fa-regular {
+    color: #8aadea;
+  }
+  
+  /* Set the color of the icon when hovering over the anchor tag (white) */
+  a:hover i.fa-regular {
+    color: #fff;
+  }
